@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "681931612549",
+    "project_id": "fir-recover",
+    "storage_bucket": "fir-recover.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681931612549:android:94cfffcad5082c3bac24ec",
+        "android_client_info": {
+          "package_name": "com.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681931612549-1bm6gj3396oqq3j9nos7mvn2acrr3svd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAsQLT3TTdDb2exq6MH8ZTYiYtL5KoXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681931612549-1bm6gj3396oqq3j9nos7mvn2acrr3svd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681931612549-1lb1hnu175uv134ehii75frc315csc6k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.firebaseproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
