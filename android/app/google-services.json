@@ -1,41 +1,34 @@
 {
   "project_info": {
-    "project_number": "681931612549",
-    "project_id": "fir-recover",
-    "storage_bucket": "fir-recover.appspot.com"
+    "project_number": "283105486129",
+    "project_id": "fbrecover-dbe6d",
+    "storage_bucket": "fbrecover-dbe6d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:681931612549:android:94cfffcad5082c3bac24ec",
+        "mobilesdk_app_id": "1:283105486129:android:697aa46e8520fc959c7c10",
         "android_client_info": {
           "package_name": "com.firebaseproject"
         }
       },
       "oauth_client": [
         {
-          "client_id": "681931612549-1bm6gj3396oqq3j9nos7mvn2acrr3svd.apps.googleusercontent.com",
+          "client_id": "283105486129-dm808ktth90leg89i836kno995md9v1v.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAIAsQLT3TTdDb2exq6MH8ZTYiYtL5KoXo"
+          "current_key": "AIzaSyA1K-L48-Qbo1LudRtzTy0RN5AK1mQs6BI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "681931612549-1bm6gj3396oqq3j9nos7mvn2acrr3svd.apps.googleusercontent.com",
+              "client_id": "283105486129-dm808ktth90leg89i836kno995md9v1v.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "681931612549-1lb1hnu175uv134ehii75frc315csc6k.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.firebaseproject"
-              }
             }
           ]
         }
